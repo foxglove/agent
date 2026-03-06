@@ -1,8 +1,10 @@
 # Foxglove Agent
 
-This repository houses package downloads for the Foxglove Agent.
+> [!IMPORTANT]
+> Releases are no longer distributed via GitHub. Visit the [Foxglove Agent Releases](https://docs.foxglove.dev/changelog/tags/agent) page for packages and binaries.
+
 * [Documentation](https://docs.foxglove.dev/docs/foxglove-agent/introduction)
-* [Releases](https://github.com/foxglove/agent/releases)
+* [Releases](https://docs.foxglove.dev/changelog/tags/agent)
 
 ## Support
 
